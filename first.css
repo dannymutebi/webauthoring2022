@@ -1,0 +1,122 @@
+
+  .main{
+
+
+      
+    }
+.body{
+    margin:0;
+    padding:0;
+}
+h1{
+    font-size:25px;
+
+}
+.description-svg-div{
+    padding: 20px;
+}
+
+.today-div{
+   padding: 15px;
+
+}
+.world-div{
+    padding:3px;
+}
+.head{
+    
+}
+.sign {
+    padding:10px 180px;
+    border-radius: 20px;
+    background-color: rgb(57, 57, 241);
+}
+
+.log {
+    padding: 10px 180px;
+    border-radius: 20px;
+    background-color: aliceblue;
+}
+.image {
+
+}
+.login {
+    padding: 20px 40px;
+    border-bottom: 4px solid rgb(17, 16, 16);
+    margin-left: 20px;
+}
+.signup {
+    padding: 20px 40px;
+    border-bottom: 4px solid rgb(17, 16, 16); 
+    margin-left: 20px;
+    
+}
+.join {
+    padding: 15px 20px;
+    border-bottom: 4px solid rgb(17, 16, 16); 
+    border-radius:30px;
+    margin-left: 20px;
+    color:rgb(75, 75, 202);
+    background-color: white;
+    border-color: blue;
+}
+
+.for{
+    margin-left: 290px;
+
+
+}
+
+.contain-div{
+    width:40%;
+    float:right;
+    height: 60px;
+    padding-top: 90px; 
+
+    
+}
+
+input {
+    width:10%;
+    padding:10px;
+}
+input[type="signup"] {
+   background-color:rgb(106, 106, 248);
+   color:white;
+   font-size: 20px;
+   border-radius: 10%;
+    width: auto;
+    padding: 10px;
+    
+  
+}
+input[type="login"] {
+    font-size: 20px;
+    border-radius: 10%;
+     width:auto;
+     padding:0;
+}
+
+
+.footer{
+    justify-content: space-between;
+    border:none;
+    text-decoration: none;
+}
+
+.footer nav{
+margin-right: 10px;
+font-size: 20px;
+text-decoration: none;
+link-style-type:none
+}
+body{
+    margin:0;
+    padding:0;
+}
+a{
+    text-decoration: none;
+    justify-content: space-between;
+}
+
+.main
