@@ -23,9 +23,7 @@ h1{
 .world-div{
     padding:3px;
 }
-.head{
-    
-}
+
 .sign {
     padding:10px 180px;
     border-radius: 20px;
@@ -36,9 +34,6 @@ h1{
     padding: 10px 180px;
     border-radius: 20px;
     background-color: aliceblue;
-}
-.image {
-
 }
 .login {
     padding: 20px 40px;
@@ -85,10 +80,7 @@ input[type="signup"] {
    color:white;
    font-size: 20px;
    border-radius: 10%;
-    width: auto;
     padding: 10px;
-    
-  
 }
 input[type="login"] {
     font-size: 20px;
@@ -101,22 +93,22 @@ input[type="login"] {
 .footer{
     justify-content: space-between;
     border:none;
-    text-decoration: none;
+    
 }
 
 .footer nav{
 margin-right: 10px;
 font-size: 20px;
 text-decoration: none;
-link-style-type:none
 }
+
 body{
     margin:0;
     padding:0;
 }
+
 a{
     text-decoration: none;
     justify-content: space-between;
 }
 
-.main
